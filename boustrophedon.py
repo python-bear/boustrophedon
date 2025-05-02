@@ -86,4 +86,4 @@ Beowulf subsequently becomes king of his own people, the Geats. After he has bee
 
 The poem closes with a glowing tribute to his bravery, his gentleness, his goodness of heart, and his generosity.""".split("\n")
 
-render_boustrophedon_image(text, line_char_limit=50, font_size=19, scale=4)
+render_boustrophedon_image(text, line_char_limit=90, font_size=19, scale=4)
