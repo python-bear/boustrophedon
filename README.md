@@ -1,6 +1,6 @@
 # boustrophedon
 Script for rendering boustrophedon formatted text. Works well for Times New Roman, other fonts have not been tested. 
-The temporary/test text is from [here(https://www.gutenberg.org/files/16328/16328-h/16328-h.htm#page_81).
+The temporary/test text is from [here](https://www.gutenberg.org/files/16328/16328-h/16328-h.htm#page_81).
 
 # How To Use
 If you've got some programming knowledge, especially in Python, run either of the two scripts (the files ending in `.py`), I'd recommend `boustrophedon_gui.py` just because it should be easier to use. If not, you should be able to download the `BoustrophedonApp.exe` file in the `app` folder and run it on any x64 AMD Windows 11 computers. I understand that might not be the system that you have, which, if you don't, I wouldn't try running it if I were you because I wouldn't be sure how it would excecute. It might cause problems if run on the wrong system, I'm not sure. Furthermore, I don't know how to create other versions of the app for other systems with any ease.
